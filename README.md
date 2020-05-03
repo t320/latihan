@@ -1,2 +1,0 @@
-# latihan
-Created with CodeSandbox
